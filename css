@@ -1,0 +1,86 @@
+  
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+nav,
+div.product-page,
+div.about-us {
+  width: 2000px;
+  margin: auto;
+  display: flex;
+  padding-top: 50px;
+  padding-bottom: 66px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+nav div {
+  padding-top: 25px;
+  text-align: center;
+}
+nav h1 {
+  text-align: center;
+  color: blue;
+}
+nav a {
+  color: chocolate;
+  padding-right: 20px;
+  text-decoration: none;
+}
+nav a:hover {
+  color: green;
+}
+header {
+  width: 2000px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main-write {
+  color: red;
+  padding-bottom: 2em;
+}
+
+.main-explain {
+  padding-bottom: 25px;
+  font-family: "Times New Roman", "Arial";
+  font-weight:200;
+  color: coral;
+}
+.product-page {
+  padding: 25px;
+  align-items: center;
+}
+
+div.product-page p {
+  padding: 10px;
+  text-align: center;
+  font-size: 1, 7em;
+  font-family: Tahoma, sans-serif;
+}
+
+/***** About Us Page*****/
+
+.about-us h2 {
+  padding-bottom: 25px;
+  color: brown;
+}
+
+.about-first-write {
+  padding-right: 650px;
+}
+
+.about-us h5 {
+  padding-bottom: 25px;
+  color: goldenrod;
+  padding-right: 100em;
+}
+
+.about-us p {
+  padding-bottom: 60px;
+}
