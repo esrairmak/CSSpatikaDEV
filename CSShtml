@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Our Products</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+<nav>
+      <h1>My Müzik Dünyası </h1>
+      <div>
+        <a href="index.html">Ana Sayfa</a>
+        <a href="product.html">Ürünler </a>
+        <a href="about-us.html">Hakkında </a>
+      </div>
+    </nav>
+    <header">
+      <div class="product-page">
+      <div>
+        <img src="https://picsum.photos/id/1/300/300" alt="1.photos" />
+        <p>1.Lorem ipsum dolor sit amet.</p>
+      </div>
+      <div>
+        <img src="https://picsum.photos/id/2/300/300" alt="2.photos" />
+        <p>2.Lorem, ipsum dolor.</p>
+      </div>
+      <div>
+        <img src="https://picsum.photos/id/3/400/400" alt="3.photos" />
+        <p>3.Lorem ipsum dolor sit amet consectetur.</p>
+      </div>
+      <div>
+        <img src="https://picsum.photos/id/4/400/300" alt="4.photos" />
+        <p>4.Lorem, ipsum.</p>
+      </div>
+      <div>
+        <img src="https://picsum.photos/id/5/400/300" alt="5.photos" />
+        <p>
+          5.Lorem ipsum dolor sit amet consectetur adipisicing
+         
+        </p>
+      </div>
+    </div>
+    </header>
+  </body>
+</html>
